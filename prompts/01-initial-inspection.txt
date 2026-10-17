@@ -1,0 +1,16 @@
+I am completing the individual Week 7 Codex CLI Hands-On assignment.
+
+My analytical question is:
+How does median sale price vary across neighborhoods in Ames, and which neighborhoods have the highest and lowest median prices?
+
+Work only within this repository. Preserve AmesHousing-1.csv unchanged.
+
+For this first step:
+1. Inspect the dataset and report its dimensions, relevant column names, missing values in Neighborhood and SalePrice, duplicate records, and nonpositive or nonnumeric sale prices.
+2. Recommend a cleaning plan and a simple analysis plan. Do not perform the final analysis yet or remove any records.
+3. Create prompts/01-initial-inspection.txt containing this exact prompt.
+4. Create log/ai-workflow-log.md with an entry for this prompt, using the actual local date, time, and timezone. Record what you produced. Mark my acceptance, modifications, and rejections as "Pending student review"; do not invent decisions.
+5. Put the analytical question at the top of README.md and record the session date. Leave findings pending.
+6. Do not write reflection.md yet. It must reflect my actual experience.
+
+Explain your proposed commands before running them and summarize any files you create or change.

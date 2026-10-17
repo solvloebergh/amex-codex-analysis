@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="958" viewBox="0 0 1050 958">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#222}.title{font-size:20px;font-weight:bold}.small{font-size:12px}.label{font-size:13px}</style>
+<text x="24" y="30" class="title">Median Sale Price by Ames Neighborhood</text>
+<text x="24" y="51" class="small">Unadjusted medians; bar labels include sale counts. Small samples: fewer than 10 sales.</text>
+<rect x="740" y="23" width="14" height="14" fill="#3569a8"/><text x="760" y="35" class="small">10 or more sales</text>
+<rect x="880" y="23" width="14" height="14" fill="#d9822b"/><text x="900" y="35" class="small">Small sample</text>
+<line x1="150.00" y1="77" x2="150.00" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="150.00" y="890" text-anchor="middle" class="small">$0</text>
+<line x1="252.86" y1="77" x2="252.86" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="252.86" y="890" text-anchor="middle" class="small">$50,000</text>
+<line x1="355.71" y1="77" x2="355.71" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="355.71" y="890" text-anchor="middle" class="small">$100,000</text>
+<line x1="458.57" y1="77" x2="458.57" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="458.57" y="890" text-anchor="middle" class="small">$150,000</text>
+<line x1="561.43" y1="77" x2="561.43" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="561.43" y="890" text-anchor="middle" class="small">$200,000</text>
+<line x1="664.29" y1="77" x2="664.29" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="664.29" y="890" text-anchor="middle" class="small">$250,000</text>
+<line x1="767.14" y1="77" x2="767.14" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="767.14" y="890" text-anchor="middle" class="small">$300,000</text>
+<line x1="870.00" y1="77" x2="870.00" y2="871" stroke="#dddddd" stroke-width="1"/>
+<text x="870.00" y="890" text-anchor="middle" class="small">$350,000</text>
+<line x1="150" y1="871" x2="870" y2="871" stroke="#333" stroke-width="1.5"/>
+<text x="140" y="98" text-anchor="end" class="label">MeadowV</text>
+<rect x="150" y="82" width="181.54" height="19" fill="#3569a8"/>
+<text x="338.54" y="97" class="small">$88,250 (n=37)</text>
+<text x="140" y="126" text-anchor="end" class="label">BrDale</text>
+<rect x="150" y="110" width="218.06" height="19" fill="#3569a8"/>
+<text x="375.06" y="125" class="small">$106,000 (n=30)</text>
+<text x="140" y="154" text-anchor="end" class="label">IDOTRR</text>
+<rect x="150" y="138" width="219.09" height="19" fill="#3569a8"/>
+<text x="376.09" y="153" class="small">$106,500 (n=93)</text>
+<text x="140" y="182" text-anchor="end" class="label">OldTown</text>
+<rect x="150" y="166" width="246.65" height="19" fill="#3569a8"/>
+<text x="403.65" y="181" class="small">$119,900 (n=239)</text>
+<text x="140" y="210" text-anchor="end" class="label">Edwards</text>
+<rect x="150" y="194" width="257.14" height="19" fill="#3569a8"/>
+<text x="414.14" y="209" class="small">$125,000 (n=194)</text>
+<text x="140" y="238" text-anchor="end" class="label">BrkSide</text>
+<rect x="150" y="222" width="260.74" height="19" fill="#3569a8"/>
+<text x="417.74" y="237" class="small">$126,750 (n=108)</text>
+<text x="140" y="266" text-anchor="end" class="label">Blueste</text>
+<rect x="150" y="250" width="268.46" height="19" fill="#3569a8"/>
+<text x="425.46" y="265" class="small">$130,500 (n=10)</text>
+<text x="140" y="294" text-anchor="end" class="label">Sawyer</text>
+<rect x="150" y="278" width="277.71" height="19" fill="#3569a8"/>
+<text x="434.71" y="293" class="small">$135,000 (n=151)</text>
+<text x="140" y="322" text-anchor="end" class="label">SWISU</text>
+<rect x="150" y="306" width="280.18" height="19" fill="#3569a8"/>
+<text x="437.18" y="321" class="small">$136,200 (n=48)</text>
+<text x="140" y="350" text-anchor="end" class="label">Landmrk</text>
+<rect x="150" y="334" width="281.83" height="19" fill="#d9822b"/>
+<text x="438.83" y="349" class="small">$137,000 (n=1)</text>
+<text x="140" y="378" text-anchor="end" class="label">NAmes</text>
+<rect x="150" y="362" width="288.00" height="19" fill="#3569a8"/>
+<text x="445.00" y="377" class="small">$140,000 (n=443)</text>
+<text x="140" y="406" text-anchor="end" class="label">NPkVill</text>
+<rect x="150" y="390" width="295.71" height="19" fill="#3569a8"/>
+<text x="452.71" y="405" class="small">$143,750 (n=23)</text>
+<text x="140" y="434" text-anchor="end" class="label">Mitchel</text>
+<rect x="150" y="418" width="315.77" height="19" fill="#3569a8"/>
+<text x="472.77" y="433" class="small">$153,500 (n=114)</text>
+<text x="140" y="462" text-anchor="end" class="label">SawyerW</text>
+<rect x="150" y="446" width="370.29" height="19" fill="#3569a8"/>
+<text x="527.29" y="461" class="small">$180,000 (n=125)</text>
+<text x="140" y="490" text-anchor="end" class="label">NWAmes</text>
+<rect x="150" y="474" width="372.34" height="19" fill="#3569a8"/>
+<text x="529.34" y="489" class="small">$181,000 (n=131)</text>
+<text x="140" y="518" text-anchor="end" class="label">Gilbert</text>
+<rect x="150" y="502" width="376.46" height="19" fill="#3569a8"/>
+<text x="533.46" y="517" class="small">$183,000 (n=165)</text>
+<text x="140" y="546" text-anchor="end" class="label">Blmngtn</text>
+<rect x="150" y="530" width="393.94" height="19" fill="#3569a8"/>
+<text x="550.94" y="545" class="small">$191,500 (n=28)</text>
+<text x="140" y="574" text-anchor="end" class="label">ClearCr</text>
+<rect x="150" y="558" width="406.29" height="19" fill="#3569a8"/>
+<text x="563.29" y="573" class="small">$197,500 (n=44)</text>
+<text x="140" y="602" text-anchor="end" class="label">Greens</text>
+<rect x="150" y="586" width="407.31" height="19" fill="#d9822b"/>
+<text x="564.31" y="601" class="small">$198,000 (n=8)</text>
+<text x="140" y="630" text-anchor="end" class="label">CollgCr</text>
+<rect x="150" y="614" width="411.43" height="19" fill="#3569a8"/>
+<text x="568.43" y="629" class="small">$200,000 (n=267)</text>
+<text x="140" y="658" text-anchor="end" class="label">Crawfor</text>
+<rect x="150" y="642" width="412.71" height="19" fill="#3569a8"/>
+<text x="569.71" y="657" class="small">$200,624 (n=103)</text>
+<text x="140" y="686" text-anchor="end" class="label">Somerst</text>
+<rect x="150" y="670" width="463.89" height="19" fill="#3569a8"/>
+<text x="620.89" y="685" class="small">$225,500 (n=182)</text>
+<text x="140" y="714" text-anchor="end" class="label">Timber</text>
+<rect x="150" y="698" width="477.48" height="19" fill="#3569a8"/>
+<text x="634.48" y="713" class="small">$232,106 (n=72)</text>
+<text x="140" y="742" text-anchor="end" class="label">Veenker</text>
+<rect x="150" y="726" width="514.80" height="19" fill="#3569a8"/>
+<text x="671.80" y="741" class="small">$250,250 (n=24)</text>
+<text x="140" y="770" text-anchor="end" class="label">GrnHill</text>
+<rect x="150" y="754" width="576.00" height="19" fill="#d9822b"/>
+<text x="733.00" y="769" class="small">$280,000 (n=2)</text>
+<text x="140" y="798" text-anchor="end" class="label">NoRidge</text>
+<rect x="150" y="782" width="621.26" height="19" fill="#3569a8"/>
+<text x="778.26" y="797" class="small">$302,000 (n=71)</text>
+<text x="140" y="826" text-anchor="end" class="label">NridgHt</text>
+<rect x="150" y="810" width="653.66" height="19" fill="#3569a8"/>
+<text x="810.66" y="825" class="small">$317,750 (n=166)</text>
+<text x="140" y="854" text-anchor="end" class="label">StoneBr</text>
+<rect x="150" y="838" width="656.23" height="19" fill="#3569a8"/>
+<text x="813.23" y="853" class="small">$319,000 (n=51)</text>
+<text x="510.0" y="945" text-anchor="middle" class="small">Median sale price (USD)</text>
+</svg>

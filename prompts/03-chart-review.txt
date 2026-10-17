@@ -1,0 +1,11 @@
+I opened the SVG chart and reviewed its labels, ordering, sale counts, and small-sample colors. Keep those elements.
+
+Before I accept the final chart:
+1. Add a horizontal axis labeled "Median sale price (USD)", starting at zero, with readable currency tick marks. Preserve the existing values, counts, ordering, and small-sample colors.
+2. Verify that all 28 chart values and counts match the summary CSV.
+3. Show the sorted SalePrice values for MeadowV and StoneBr, identifying the middle observation used for each median, so I can check them myself.
+4. Save this exact prompt as prompts/03-chart-review.txt.
+5. Update the workflow log with my review and requested changes, using the actual local timestamp. Leave acceptance of the revised chart and my numerical verification pending.
+6. Do not write reflection.md yet.
+
+Explain proposed commands before running them.

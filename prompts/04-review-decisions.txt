@@ -1,0 +1,17 @@
+I accept the revised chart after opening and reviewing it.
+Keep the zero-based currency axis, neighborhood labels,
+sale counts, ordering, and small-sample colors.
+
+Update log/ai-workflow-log.md to record this acceptance
+and resolve the corresponding pending chart-review items.
+
+The median positions and values were checked with assistance
+from ChatGPT: MeadowV, position 19 of 37, $88,250;
+StoneBr, position 26 of 51, $319,000.
+Do not describe this as an independent manual verification
+performed by me.
+
+Save this exact prompt as prompts/04-review-decisions.txt
+and add a timestamped workflow-log entry for it.
+Do not invent additional review decisions.
+Do not create reflection.md yet.

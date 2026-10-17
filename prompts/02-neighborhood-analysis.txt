@@ -1,0 +1,20 @@
+I reviewed your inspection and accept keeping all 2,930 records for this analysis because no missing Neighborhood or invalid SalePrice values or exact duplicate rows were found.
+
+I accept the neighborhood median comparison, with these refinements:
+- Include the number of sales for every neighborhood.
+- Flag neighborhoods with fewer than 10 sales as small samples, but do not exclude them.
+- Describe differences as unadjusted comparisons, not neighborhood effects or causal findings.
+
+Please:
+1. Save this exact prompt as prompts/02-neighborhood-analysis.txt.
+2. Update the first workflow-log entry with these decisions. Record that the pandas attempt failed and that the built-in csv fallback completed the inspection.
+3. Create a reproducible Python script under analysis/. Preserve the source CSV unchanged. Use built-in modules where practical; explain any required package installation before proceeding.
+4. Check for whitespace or inconsistent neighborhood labels. Document any changes in a working copy without silently merging distinct labels.
+5. Produce a CSV summary table containing neighborhood, sale count, median sale price, and a small-sample flag, sorted by median price.
+6. Produce a clearly labeled horizontal bar chart of median sale price for every neighborhood, sorted by median. Show sale counts and distinguish small samples.
+7. Write a brief plain-language findings narrative naming the highest and lowest median-price neighborhoods, their medians, and their sale counts. Explain that house size, condition, and other factors have not been controlled for.
+8. Verify that neighborhood sale counts sum to the number of analyzed records and independently check the medians for the highest and lowest neighborhoods. Report the checks.
+9. Update README.md with the findings and instructions for reproducing the analysis.
+10. Append a workflow-log entry for this prompt using the actual local timestamp. Leave my review of these new outputs pending. Do not write my reflection or invent student decisions.
+
+Explain proposed commands before running them.

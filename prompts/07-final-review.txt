@@ -1,0 +1,21 @@
+I reviewed reflection.md and accept it after correcting the
+chart-review sentence to explain that there was a missing horizontal price axis.
+
+Please:
+1. Save this exact prompt as prompts/07-final-review.txt.
+2. Update the workflow log with my acceptance of the reflection
+   and the correction, using the actual local timestamp.
+3. Check that the repository contains:
+   - README.md with the analytical question, session date,
+     and findings summary.
+   - prompts/ with all seven prompts in chronological order.
+   - log/ai-workflow-log.md with a substantive entry per prompt.
+   - analysis/ with the script, summary table, chart,
+     working copy, findings, and median checks.
+   - reflection.md.
+4. Report any remaining "Pending student review" items.
+   Do not mark them accepted without my explicit decision.
+5. Confirm that AmesHousing-1.csv is unchanged.
+6. Report any missing requirements or inconsistencies.
+
+Do not change the analysis, commit, or push files.

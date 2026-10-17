@@ -1,0 +1,21 @@
+Create a one-page reflection.md in clear, natural English using my personal reflections below and the documented session. Preserve my meaning and do not invent experiences.
+
+My reflections:
+- The hardest part was reviewing the results and checking that they were correct.
+- What surprised me most was how easy Codex was to use. It handled the commands and file creation, but I needed to specify exactly what I wanted.
+- I realized that much of the responsibility remains with the user because the output depends on the instructions and must be verified.
+- Next time, I would be more careful and precise about what I ask for.
+
+Include these documented examples:
+- The first inspection failed because pandas was unavailable. Codex continued using Python's built-in csv module.
+- The prompts evolved from inspection, to analysis with sale counts and small-sample flags, to reviewing and improving the chart.
+- The first chart lacked a horizontal price axis. A follow-up prompt requested a zero-based currency axis.
+- The median positions and values were reviewed with ChatGPT assistance, not independently verified by me.
+
+Acknowledge that I used a separate ChatGPT conversation for step-by-step guidance and help drafting prompts, while the analytical work was executed in Codex CLI using my Clemson Edu account.
+
+Explain what these experiences taught me about directing and verifying AI-generated analytical work. Do not claim that I wrote the analytical code myself or understood every command.
+
+Save this exact prompt as prompts/05-reflection.txt.
+Append a timestamped entry to log/ai-workflow-log.md describing what you produced. Mark my review of the reflection as pending.
+Do not change the analysis or commit or push files.

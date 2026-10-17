@@ -1,0 +1,15 @@
+Edit only the ChatGPT-assistance statement in reflection.md
+to read:
+
+“I used a separate ChatGPT conversation to clarify a few technical
+steps and check whether I was following
+the workflow correctly. The analytical code and outputs were
+produced in Codex CLI using my Clemson Edu account.”
+
+Keep the rest of the reflection unchanged.
+
+Save this exact prompt as prompts/06-reflection-revision.txt
+and append a timestamped entry to log/ai-workflow-log.md
+documenting the wording change. Keep the original prompt
+history unchanged. Leave my review of the revised reflection
+pending. Do not commit or push files.
