@@ -4,9 +4,13 @@ Session date: 2026-10-17
 
 ## Findings
 
-Across 2,930 analyzed sales in 28 neighborhoods, **StoneBr** has the highest median sale price (**$319,000**, 51 sales), while **MeadowV** has the lowest (**$88,250**, 37 sales). Neighborhoods with fewer than 10 sales are flagged as small samples and remain included; the chart and summary table show sale counts for every neighborhood.
+Across 2,930 analyzed sales in 28 neighborhoods, StoneBr has the highest median sale price ($319,000, 51 sales), 
+while MeadowV has the lowest ($88,250, 37 sales). 
+Neighborhoods with fewer than 10 sales are flagged as small samples and remain included; 
+the chart and summary table show sale counts for every neighborhood.
 
-These are unadjusted comparisons. House size, condition, and other factors have not been controlled for, so the differences should not be interpreted as neighborhood effects or causal findings.
+These are unadjusted comparisons. House size, condition, and other factors have not been controlled for, 
+so the differences should not be interpreted as neighborhood effects or causal findings.
 
 ### Reproduce the analysis
 
